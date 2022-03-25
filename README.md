@@ -10,7 +10,6 @@ Matlab has more than a 100 languages integrated in it. Feel free to convert and 
 
 ![alt text](assets/images/first.jpg)
 ![alt text](assets/images/second.jpg)
-![alt text](assets/images/third.jpg)
 ![alt text](assets/images/fourth.jpg)
 ![alt text](assets/images/fifth.jpg)
 ![alt text](assets/images/sixth.jpg)
